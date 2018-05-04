@@ -1,0 +1,728 @@
+/*全局样式*/
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /*background-color: #edc68b;*/
+}
+* {
+    color: #000;
+}
+p{
+    margin: 0px;
+}
+/*种植小按钮*/
+.plantBtn{
+    position: absolute;
+    top: 30px;
+    left:30px;
+    display:none;
+    padding: 10px;
+    width: 100px;
+    height: 90px;
+}
+.p{
+    display: block;
+    width: 100%;
+    height: 30px;
+    text-align: center;
+    border-radius: 3px;
+    border: 1px solid #0080ff;
+    line-height: 30px;
+    color:#fff;
+    background-color: #0080ff;
+}
+.p:hover{
+    border: 1px solid #F44336;
+    background-color: #F44336;
+    cursor: pointer;
+}
+.num{
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    height: 30px;
+    color:#fff;
+    text-align: center;
+    border-radius: 3px;
+    border: 1px solid #0080ff;
+    line-height: 30px;
+    background-color: #0080ff;
+}
+#sum{
+    color: #fff;
+    line-height: 30px;
+}
+/*加载圈圈*/
+#loading{
+    background-color: #000;
+    height: 100%;
+    width: 100%;
+    opacity: 0.5;
+    position: fixed;
+    z-index: 1000;
+    margin-top: 0px;
+    top: 0px;
+}
+#loading-center{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+#loading-center-absolute {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    height: 150px;
+    width: 150px;
+    margin-top: -75px;
+    margin-left: -75px;
+    -moz-border-radius: 50% 50% 50% 50%;
+    -webkit-border-radius: 50% 50% 50% 50%;
+    border-radius: 50% 50% 50% 50%;
+}
+.loadTip{
+    position: absolute;
+    bottom: -50px;
+    color: #F44336;
+    font-size: 21px;
+    font-weight: bold;
+    text-align: center;
+}
+.object{
+    width: 20px;
+    height: 20px;
+    background-color: #FFF;
+    position: absolute;
+    -moz-border-radius: 50% 50% 50% 50%;
+    -webkit-border-radius: 50% 50% 50% 50%;
+    border-radius: 50% 50% 50% 50%;
+    -webkit-animation: animate 0.8s infinite;
+    animation: animate 0.8s infinite;
+}
+#object_one {
+    top: 19px;
+    left: 19px;
+
+}
+#object_two {
+    top: 0px;
+    left: 65px;
+    -webkit-animation-delay: 0.1s;
+    animation-delay: 0.1s;
+
+}
+#object_three {
+    top: 19px;
+    left: 111px;
+    -webkit-animation-delay: 0.2s;
+    animation-delay: 0.2s;
+
+}
+#object_four {
+    top: 65px;
+    left: 130px;
+    -webkit-animation-delay: 0.3s;
+    animation-delay: 0.3s;
+}
+#object_five {
+    top: 111px;
+    left: 111px;
+    -webkit-animation-delay: 0.4s;
+    animation-delay: 0.4s;
+}
+#object_six {
+    top: 130px;
+    left: 65px;
+    -webkit-animation-delay: 0.5s;
+    animation-delay: 0.5s;
+}
+#object_seven {
+    top: 111px;
+    left: 19px;
+    -webkit-animation-delay: 0.6s;
+    animation-delay: 0.6s;
+}
+#object_eight {
+    top: 65px;
+    left: 0px;
+    -webkit-animation-delay: 0.7s;
+    animation-delay: 0.7s;
+}
+@-webkit-keyframes animate {
+
+    25% {
+        -ms-transform: scale(1.5);
+        -webkit-transform: scale(1.5);
+        transform: scale(1.5);
+    }
+    75% {
+        -ms-transform: scale(0);
+        -webkit-transform: scale(0);
+        transform: scale(0);
+    }
+}
+@keyframes animate {
+    50% {
+        -ms-transform: scale(1.5,1.5);
+        -webkit-transform: scale(1.5,1.5);
+        transform: scale(1.5,1.5);
+    }
+
+    100% {
+        -ms-transform: scale(1,1);
+        -webkit-transform: scale(1,1);
+        transform: scale(1,1);
+    }
+
+}
+/*遮罩层*/
+#wrap{
+    width: 100%;
+    height: 1600px;
+    position:absolute;
+    top:0px;
+    left: 0px;
+    opacity: 0.2;
+    display: none;
+    background-color: #000;
+    overflow: hidden;
+    z-index: 1;
+}
+/*是否种植提示对话框*/
+#plantTip{
+    width:350px;
+    border: 1px solid #0080ff;
+    border-radius: 3px;
+    display:none;
+    position: absolute;
+    background-color: #fff;
+    z-index: 2;
+}
+.titleTip{
+    background-color: #0080ff;
+    height:40px;
+    padding-left:16px;
+}
+.smallTip{
+    color:#fff;
+    line-height:40px;
+}
+.plantMsg{
+    width:100%;
+    height:60px;
+    text-align: center;
+    line-height: 60px;
+    margin:0 auto;
+}
+.buttonTip{
+    width:100%;
+    height:40px;
+}
+.btnBox{
+    text-align: center;
+}
+input.btn{
+    background-color: #0080ff;
+    border:none;
+    color:#fff;
+    border-radius: 2px;
+    width:56px;
+    height:25px;
+    cursor: pointer;
+    text-align: center;
+    margin: 0px auto;
+}
+input.btn:hover{
+    background-color: #F44336;
+}
+/*底部菜单栏*/
+.bottom_menu{
+    width:100%;
+    height:40px;
+    position:absolute;
+    bottom:0px;
+    right:0px;
+    background-color: #000;
+    display:flex;
+    z-index: 1;
+}
+.column{
+    color:#fff;
+    height: 40px;
+    line-height: 40px;
+    display: block;
+    flex:1;
+    text-align: center;
+    background-color: #0080ff;
+}
+.col{
+    background-color: #e49ced;
+    cuosor:pointer;
+}
+.column+.column{
+    /*margin-left:20px;!*由于flex分配的是剩余宽度，就是除掉了margin的宽度*!*/
+    /*border-left: 1px solid #000;*/
+    margin-left:1px;
+}
+.column:hover{
+    background-color: #F44336;
+    cursor: pointer;
+}
+.bottom_bar{
+    display: block;
+    width: 30px;
+    height: 4px;
+    margin: 5px auto;
+    background-color: #fff;
+    border-radius: 2px;
+}
+.bottom_bar:first-child {
+    margin-top: 9px;
+}
+/*弹出层：椰子详细资料*/
+.MsgContent{
+    width: 700px;
+    height:500px;
+    position: absolute;
+    display: none;
+}
+.prev{
+    position: absolute;
+    width:50px;
+    height:50px;
+    left:0px;
+    top:50%;
+    transform: translateY(-50%);
+    background: url(prev.png) no-repeat 0px 0px;
+    animation:switchLeft 4s infinite alternate;
+    -webkit-animation:switchLeft 4s infinite alternate;
+    -o-animation:switchLeft 4s infinite alternate;
+}
+@keyframes  switchLeft{
+    0% {
+        /*transform: translateX(0px);*/
+        left:0px;
+    }
+    50% {
+        /*transform: translateX(20px);*/
+        left:-15px;
+    }
+    100%{
+        left:0px;
+    }
+}
+.next{
+    position: absolute;
+    width:50px;
+    height:50px;
+    right:0px;
+    top:50%;
+    transform: translateY(-50%);
+    background: url(next.png) no-repeat 0px 0px;
+    animation:switchRight 4s infinite alternate;
+    -webkit-animation:switchRight 4s infinite alternate;
+    -o-animation:switchRight 4s infinite alternate;
+}
+@keyframes  switchRight{
+    0% {
+        /*transform: translateX(0px);*/
+        right:0px;
+    }
+    50% {
+        /*transform: translateX(20px);*/
+        right:-15px;
+    }
+    100%{
+        right:0px;
+    }
+}
+.rightContent_one,.rightContent_two,.rightContent_three,.rightContent_four,.rightContent_five{
+    /*width: 500px;*/
+    position: absolute;
+    /*padding:30px 20px;*/
+    /*left: 50%;
+    transform:translateX(-50%);*/
+    top:50px;
+    bottom:50px;
+    right:50px;
+    left:50px;
+    border-radius: 5px;
+    box-shadow: 0 12px 24px 0 rgba(7,17,27,.2);
+    z-index:1;
+    /*z-index:3;*/
+}
+.rightContent_one{
+    z-index: 2;
+    background-color: #edcac4;
+    transform: rotate(-6deg);
+}
+.rightContent_two{
+    /*right:300px;*/
+    z-index:2;
+    background-color: #edd47d;
+    transform: rotate(-3deg);
+}
+.rightContent_three{
+    /*right:100px;*/
+    z-index:3;
+    background-color: #8bed74;
+    transform: rotate(0deg);
+}
+.rightContent_four{
+    z-index:2;
+    background-color: #e49ced;
+    transform: rotate(-6deg);
+}
+.rightContent_five{
+    z-index:2;
+    background-color: #beedd8;
+    transform: rotate(3deg);
+}
+.rightContent_one,.rightContent_two,.rightContent_three,.rightContent_four,.rightContent_five{
+    /*display: none;*/
+}
+.information1{
+    position: absolute;
+    padding:30px 30px;
+    top:50%;
+    transform: translateY(-50%);
+}
+.information1 span{
+    display:block;
+    width:100%;
+    /*z-index: 1;*/
+}
+.information1 span:first-child{
+    font-size:24px;
+    margin-bottom: 15px;
+}
+.information1 span:last-child{
+    font-size: 18px;
+    line-height: 28px;
+}
+.information2{
+    position: absolute;
+    padding:30px 30px;
+    top:50%;
+    transform: translateY(-50%);
+}
+.information2 span{
+    display:block;
+    width:100%;
+    /*z-index: 1;*/
+}
+.information2 span:first-child{
+    font-size:24px;
+    margin-bottom: 15px;
+}
+.information2 span:last-child{
+    font-size: 16px;
+    line-height: 20px;
+}
+.information3{
+    position: absolute;
+    padding:30px 30px;
+    top:50%;
+    transform: translateY(-50%);
+}
+.information3 span{
+    display:block;
+    width:100%;
+    /*z-index: 1;*/
+}
+.information3 span:first-child{
+    font-size:24px;
+    margin-bottom: 15px;
+}
+.information3 span:last-child{
+    font-size: 16px;
+    line-height: 20px;
+}
+.information4{
+    position: absolute;
+    padding:30px 30px;
+    top:50%;
+    transform: translateY(-50%);
+}
+.information4 span{
+    display:block;
+    width:100%;
+    /*z-index: 1;*/
+}
+.information4 span:first-child{
+    font-size:24px;
+    margin-bottom: 15px;
+}
+.information4 span:last-child{
+    font-size: 16px;
+    line-height: 20px;
+}
+.information5{
+    position: absolute;
+    padding:30px 25px;
+    top:50%;
+    transform: translateY(-50%);
+}
+.information5 span{
+    display:block;
+    width:100%;
+    /*z-index: 1;*/
+}
+.information5 span:first-child{
+    font-size:24px;
+    margin-bottom: 5px;
+}
+.information5 span:last-child{
+    font-size: 16px;
+    line-height: 20px;
+}
+/*点击提示圈圈*/
+.circleTip{
+    position: absolute;
+    width:100px;
+    height: 100px;
+    top:100px;
+    left:50%;
+    z-index:2;
+    display:none;
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+.dot{
+    position: absolute;
+    top:0;
+    right:0;
+    bottom: 0;
+    left:0;
+    margin: auto;
+    width: 10px;
+    height: 10px;
+    background: #00cdec;
+    border-radius: 50%;
+}
+.circle:after{
+    position: absolute;
+    content: "";
+    display: block;
+    top:0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    border: 1px solid #00cdec;
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    box-shadow: inset 0 0 5em rgba(0,205,236,.16);
+    opacity: 0;
+}
+.circle1:after{
+    -webkit-animation: circleMove 4.5s ease-out 200ms infinite;
+    -o-animation: circleMove 4.5s ease-out 200ms infinite;
+    animation: circleMove 4.5s ease-out 200ms infinite;
+}
+.circle2:after{
+    -webkit-animation: circleMove 4.5s ease-out 1725ms infinite;
+    -o-animation: circleMove 4.5s ease-out 1725ms infinite;
+    animation: circleMove 4.5s ease-out 1725ms infinite;
+}
+.circle3:after{
+    -webkit-animation: circleMove 4.5s ease-out 3225ms infinite;
+    -o-animation: circleMove 4.5s ease-out 3225ms infinite;
+    animation: circleMove 4.5s ease-out 3225ms infinite;
+}
+@keyframes circleMove {
+    from {width: 0px;height: 0px;opacity: 1;}
+    to{width: 100px;height: 100px;opacity: 0}
+}
+.hand{
+    /*display:block;*/
+    position: absolute;
+    top: 50px;
+    left: 30px;
+    width: 60px;
+    height: 60px;
+    animation:handMove 2s ease-in-out forwards;
+    -webkit-animation:handMove 2s ease-in-out forwards;
+    -o-animation:handMove 2s ease-in-out forwards;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+}
+@keyframes handMove {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(20px);
+    }
+}
+.wordTip{
+    position: absolute;
+    bottom: -50px;
+    width: 300px;
+    font-size: 20px;
+    animation:wordMove 2s ease-in-out forwards;
+    -webkit-animation:wordMove 2s ease-in-out forwards;
+    -o-animation:wordMove 2s ease-in-out forwards;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+}
+.wordTip span{
+    color:#0080ff;
+}
+@keyframes wordMove {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(20px);
+    }
+}
+#nextSub{
+    position:absolute;
+    right: -130px;
+    top:80px;
+    display: block;
+    text-align: center;
+    width: 60px;
+    height: 30px;
+    line-height: 30px;
+    border: 1px solid #00cdec;
+    background-color: #0080ff;
+    border-radius: 3px;
+    /*animation:wordMove 2s ease-in-out forwards;
+    -webkit-animation:wordMove 2s ease-in-out forwards;
+    -o-animation:wordMove 2s ease-in-out forwards;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;*/
+}
+#nextSub:hover{
+    cursor: pointer;
+    background-color: #F44336;
+}
+#tip2{
+    display: none;
+}
+#sub2{
+    display: none;
+}
+#dayTip{
+    position:absolute;
+    top:150px;
+    left:100px;
+    text-align: center;
+    background-color: #00cdec;
+    border-radius: 5px;
+    z-index: 1;
+    display:none;
+    font-size:15px;
+    line-height: 60px;
+    width:150px;
+    height:60px;
+    animation:wordMove 2s ease-in-out forwards;
+    -webkit-animation:wordMove 2s ease-in-out forwards;
+    -o-animation:wordMove 2s ease-in-out forwards;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+}
+#oneThing{
+    border-radius: 3px;
+    border: 1px solid #0080ff;
+    background-color: #00cdec;
+    position:absolute;
+    top:200px;
+    left:200px;
+    width:280px;
+    display: none;
+}
+.childContent{
+    width: 280px;
+    border-radius: 3px;
+}
+.Tcontent{
+    position:absolute;
+    top:0px;
+    left:0px;
+    width: 250px;
+    text-align: center;
+    line-height: 30px;
+}
+#close{
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    right: 4px;
+    top:4px;
+    cursor: pointer;
+}
+#thing1{
+     display: none;
+     height: 60px;
+}
+#thing2{
+    display: none;
+    height: 30px;
+}
+#thing3{
+    display: none;
+    height: 90px;
+}
+#thing4{
+    display: none;
+    height: 60px;
+}
+#thing5{
+    display: none;
+    height: 30px;
+}
+.touch{
+    padding:8px;
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:400px;
+    height: 300px;
+    line-height: 30px;
+    background-color:#8bed74;
+    border:2px solid #0080ff;
+    border-radius: 5px;
+    overflow: auto;
+    /*display: none;*/
+}
+.title1{
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
+.p1{
+    text-indent: 2em;
+}
+.p2{
+    font-weight: bold;
+}
+#contentAll{
+    position:absolute;
+    top:100px;
+    left:300px;
+    width: 400px;
+    height: 320px;
+    display: none;
+}
+#close2{
+    position: absolute;
+    width:40px;
+    height:40px;
+    bottom: -50px;
+    left:52%;
+    transform:translateX(-52%);
+    cursor: pointer;
+}

@@ -1,0 +1,2009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af5b6734-1728-42c6-bc9b-9d2c3bed7b30" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="214" column="39" lean-forward="true" selection-start-line="214" selection-start-column="39" selection-end-line="214" selection-end-column="39" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="initial.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/initial.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="727" selection-end-column="1" />
+              <folding>
+                <element signature="e#14#105#0" expanded="false" />
+                <element signature="e#108#128#0" expanded="false" />
+                <element signature="e#130#150#0" expanded="false" />
+                <element signature="e#170#300#0" expanded="false" />
+                <element signature="e#303#510#0" expanded="false" />
+                <element signature="e#519#605#0" expanded="false" />
+                <element signature="e#610#839#0" expanded="false" />
+                <element signature="e#844#887#0" expanded="false" />
+                <element signature="e#905#1064#0" expanded="false" />
+                <element signature="e#1080#1142#0" expanded="false" />
+                <element signature="e#1168#1429#0" expanded="false" />
+                <element signature="e#1438#1572#0" expanded="false" />
+                <element signature="e#1580#1875#0" expanded="false" />
+                <element signature="e#1888#1923#0" expanded="false" />
+                <element signature="e#1936#2032#0" expanded="false" />
+                <element signature="e#2047#2145#0" expanded="false" />
+                <element signature="e#2159#2256#0" expanded="false" />
+                <element signature="e#2270#2368#0" expanded="false" />
+                <element signature="e#2381#2478#0" expanded="false" />
+                <element signature="e#2493#2590#0" expanded="false" />
+                <element signature="e#2605#2700#0" expanded="false" />
+                <element signature="e#2701#2968#0" expanded="false" />
+                <element signature="e#2969#3248#0" expanded="false" />
+                <element signature="e#3262#3456#0" expanded="false" />
+                <element signature="e#3480#3641#0" expanded="false" />
+                <element signature="e#3651#3725#0" expanded="false" />
+                <element signature="e#3735#3776#0" expanded="false" />
+                <element signature="e#3786#3888#0" expanded="false" />
+                <element signature="e#3899#3935#0" expanded="false" />
+                <element signature="e#3943#3970#0" expanded="false" />
+                <element signature="e#3980#4171#0" expanded="false" />
+                <element signature="e#4187#4221#0" expanded="false" />
+                <element signature="e#4244#4396#0" expanded="false" />
+                <element signature="e#4404#4551#0" expanded="false" />
+                <element signature="e#4556#4610#0" expanded="false" />
+                <element signature="e#4626#4746#0" expanded="false" />
+                <element signature="e#4760#4815#0" expanded="false" />
+                <element signature="e#4827#4958#0" expanded="false" />
+                <element signature="e#4983#5007#0" expanded="false" />
+                <element signature="e#5034#5116#0" expanded="false" />
+                <element signature="e#5122#5446#0" expanded="false" />
+                <element signature="e#5447#5656#0" expanded="false" />
+                <element signature="e#5662#5990#0" expanded="false" />
+                <element signature="e#5991#6204#0" expanded="false" />
+                <element signature="e#6298#6593#0" expanded="false" />
+                <element signature="e#6611#6691#0" expanded="false" />
+                <element signature="e#6709#6809#0" expanded="false" />
+                <element signature="e#6829#6928#0" expanded="false" />
+                <element signature="e#6947#7026#0" expanded="false" />
+                <element signature="e#7045#7123#0" expanded="false" />
+                <element signature="e#7217#7243#0" expanded="false" />
+                <element signature="e#7257#7353#0" expanded="false" />
+                <element signature="e#7372#7430#0" expanded="false" />
+                <element signature="e#7461#7509#0" expanded="false" />
+                <element signature="e#7539#7586#0" expanded="false" />
+                <element signature="e#7600#7696#0" expanded="false" />
+                <element signature="e#7715#7773#0" expanded="false" />
+                <element signature="e#7804#7852#0" expanded="false" />
+                <element signature="e#7882#7929#0" expanded="false" />
+                <element signature="e#7943#8039#0" expanded="false" />
+                <element signature="e#8058#8116#0" expanded="false" />
+                <element signature="e#8147#8195#0" expanded="false" />
+                <element signature="e#8225#8272#0" expanded="false" />
+                <element signature="e#8286#8382#0" expanded="false" />
+                <element signature="e#8401#8459#0" expanded="false" />
+                <element signature="e#8490#8538#0" expanded="false" />
+                <element signature="e#8568#8615#0" expanded="false" />
+                <element signature="e#8629#8725#0" expanded="false" />
+                <element signature="e#8744#8802#0" expanded="false" />
+                <element signature="e#8833#8880#0" expanded="false" />
+                <element signature="e#8910#8957#0" expanded="false" />
+                <element signature="e#8979#9104#0" expanded="false" />
+                <element signature="e#9112#9176#0" expanded="false" />
+                <element signature="e#9181#9361#0" expanded="false" />
+                <element signature="e#9375#9667#0" expanded="false" />
+                <element signature="e#9682#9864#0" expanded="false" />
+                <element signature="e#9879#10064#0" expanded="false" />
+                <element signature="e#10079#10264#0" expanded="false" />
+                <element signature="e#10265#10382#0" expanded="false" />
+                <element signature="e#10388#10793#0" expanded="false" />
+                <element signature="e#10794#10921#0" expanded="false" />
+                <element signature="e#10930#11304#0" expanded="false" />
+                <element signature="e#11318#11340#0" expanded="false" />
+                <element signature="e#11341#11468#0" expanded="false" />
+                <element signature="e#11477#12017#0" expanded="false" />
+                <element signature="e#12032#12087#0" expanded="false" />
+                <element signature="e#12093#12115#0" expanded="false" />
+                <element signature="e#12121#12143#0" expanded="false" />
+                <element signature="e#12151#12687#0" expanded="false" />
+                <element signature="e#12697#12876#0" expanded="false" />
+                <element signature="e#12890#12935#0" expanded="false" />
+                <element signature="e#12945#13063#0" expanded="false" />
+                <element signature="e#13070#13182#0" expanded="false" />
+                <element signature="e#13190#13232#0" expanded="false" />
+                <element signature="e#13240#13280#0" expanded="false" />
+                <element signature="e#13288#13328#0" expanded="false" />
+                <element signature="e#13336#13376#0" expanded="false" />
+                <element signature="e#13384#13424#0" expanded="false" />
+                <element signature="e#13431#13687#0" expanded="false" />
+                <element signature="e#13695#13782#0" expanded="false" />
+                <element signature="e#13786#13811#0" expanded="false" />
+                <element signature="e#13815#13841#0" expanded="false" />
+                <element signature="e#13853#13966#0" expanded="false" />
+                <element signature="e#13974#14120#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="initial.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/initial.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="839">
+              <caret line="810" column="1" lean-forward="false" selection-start-line="810" selection-start-column="1" selection-end-line="810" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#39#0" expanded="false" />
+                <element signature="n#!!block;n#initial#0" expanded="false" />
+                <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+                <element signature="n#!!block;n#initCamera#0" expanded="false" />
+                <element signature="e#4564#4742#0" expanded="false" />
+                <element signature="n#!!block;n#initScene#0" expanded="false" />
+                <element signature="n#!!block;n#initLight#0" expanded="false" />
+                <element signature="n#!!block;n#initObject#0" expanded="false" />
+                <element signature="n#!!block;n#initEvent#0" expanded="false" />
+                <element signature="e#6916#6962#0" expanded="false" />
+                <element signature="e#7019#7197#0" expanded="false" />
+                <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+                <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+                <element signature="e#8877#9239#0" expanded="false" />
+                <element signature="e#9344#9706#0" expanded="false" />
+                <element signature="e#9768#10130#0" expanded="false" />
+                <element signature="e#10192#10554#0" expanded="false" />
+                <element signature="e#10616#10978#0" expanded="false" />
+                <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+                <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+                <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+                <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+                <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+                <element signature="n#!!block;n#setPos#0" expanded="false" />
+                <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+                <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+                <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+                <element signature="e#16278#16320#0" expanded="false" />
+                <element signature="e#16383#16425#0" expanded="false" />
+                <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+                <element signature="e#18107#18209#0" expanded="false" />
+                <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+                <element signature="e#19025#19070#0" expanded="false" />
+                <element signature="e#19138#19285#0" expanded="false" />
+                <element signature="e#19313#19415#0" expanded="false" />
+                <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+                <element signature="e#20945#21115#0" expanded="false" />
+                <element signature="e#21135#21306#0" expanded="false" />
+                <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+                <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+                <element signature="n#!!block;n#switchDown#0" expanded="false" />
+                <element signature="n#!!block;n#switchMove#0" expanded="false" />
+                <element signature="e#23202#23782#0" expanded="false" />
+                <element signature="n#!!block;n#onPrev#0" expanded="false" />
+                <element signature="n#!!block;n#onNext#0" expanded="false" />
+                <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+                <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+                <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+                <element signature="n#!!block;n#animate#0" expanded="false" />
+                <element signature="n#!!block;n#render#0" expanded="false" />
+                <element signature="n#!!block;n#Start#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../CSS3RingMenu/index.html" />
+        <option value="$PROJECT_DIR$/../CSS3RingMenu/css/styles.css" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/test3.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/initial.css" />
+        <option value="$PROJECT_DIR$/js/initial.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraduationProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraduationProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraduationProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GraduationProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="D:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="js-jscs-nodeInterpreter" value="D:\Program Files\nodejs\node.exe" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="F:/Github/actionSet/slider/slide.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\DreamweaverProjects\GraduationProject\css" />
+      <recent name="F:\DreamweaverProjects\GraduationProject\js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af5b6734-1728-42c6-bc9b-9d2c3bed7b30" name="Default" comment="" />
+      <created>1512994444217</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512994444217</updated>
+      <workItem from="1512994446155" duration="2311000" />
+      <workItem from="1513075691150" duration="650000" />
+      <workItem from="1513666019444" duration="599000" />
+      <workItem from="1514167028472" duration="3389000" />
+      <workItem from="1514289957628" duration="596000" />
+      <workItem from="1515416836666" duration="2204000" />
+      <workItem from="1515491860233" duration="592000" />
+      <workItem from="1516183434477" duration="599000" />
+      <workItem from="1516418718567" duration="8446000" />
+      <workItem from="1517477107262" duration="2489000" />
+      <workItem from="1519439734502" duration="4773000" />
+      <workItem from="1519465140210" duration="599000" />
+      <workItem from="1519558608950" duration="84000" />
+      <workItem from="1519615630920" duration="2000" />
+      <workItem from="1519617829250" duration="599000" />
+      <workItem from="1519824744945" duration="789000" />
+      <workItem from="1519864803374" duration="6527000" />
+      <workItem from="1519955873505" duration="5170000" />
+      <workItem from="1520045507890" duration="1757000" />
+      <workItem from="1520075131910" duration="1260000" />
+      <workItem from="1520138502192" duration="7034000" />
+      <workItem from="1520233611200" duration="5262000" />
+      <workItem from="1520323790806" duration="5850000" />
+      <workItem from="1520386715226" duration="10498000" />
+      <workItem from="1520408153961" duration="675000" />
+      <workItem from="1520563886822" duration="598000" />
+      <workItem from="1520649088229" duration="5031000" />
+      <workItem from="1520729461497" duration="2464000" />
+      <workItem from="1520830406276" duration="5964000" />
+      <workItem from="1520855689373" duration="2748000" />
+      <workItem from="1520918688758" duration="4700000" />
+      <workItem from="1520988517286" duration="2594000" />
+      <workItem from="1521022003624" duration="3609000" />
+      <workItem from="1521027694968" duration="5594000" />
+      <workItem from="1521077853291" duration="22924000" />
+      <workItem from="1521161940121" duration="2502000" />
+      <workItem from="1521166334486" duration="8299000" />
+      <workItem from="1521558100195" duration="1692000" />
+      <workItem from="1521643175033" duration="834000" />
+      <workItem from="1521699366987" duration="1863000" />
+      <workItem from="1521786391724" duration="11195000" />
+      <workItem from="1521852047917" duration="27785000" />
+      <workItem from="1521940851137" duration="19408000" />
+      <workItem from="1522029147695" duration="24000" />
+      <workItem from="1522029460893" duration="13018000" />
+      <workItem from="1522114049347" duration="16610000" />
+      <workItem from="1522195498011" duration="16702000" />
+      <workItem from="1522302068999" duration="118000" />
+      <workItem from="1522326373994" duration="1594000" />
+      <workItem from="1522330249476" duration="3112000" />
+      <workItem from="1522407701693" duration="598000" />
+      <workItem from="1522597702166" duration="2925000" />
+      <workItem from="1522640278108" duration="5689000" />
+      <workItem from="1522670626239" duration="8362000" />
+      <workItem from="1522685131334" duration="623000" />
+      <workItem from="1522720145082" duration="6368000" />
+      <workItem from="1522807162254" duration="24150000" />
+      <workItem from="1522891695191" duration="13956000" />
+      <workItem from="1522947047392" duration="916000" />
+      <workItem from="1523009328458" duration="4439000" />
+      <workItem from="1523523528938" duration="4338000" />
+      <workItem from="1523607335700" duration="1058000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="327158000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2035139" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="n#!!block;n#initial#0" expanded="false" />
+            <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+            <element signature="n#!!block;n#initCamera#0" expanded="false" />
+            <element signature="e#4564#4742#0" expanded="false" />
+            <element signature="n#!!block;n#initScene#0" expanded="false" />
+            <element signature="n#!!block;n#initLight#0" expanded="false" />
+            <element signature="n#!!block;n#initObject#0" expanded="false" />
+            <element signature="n#!!block;n#initEvent#0" expanded="false" />
+            <element signature="e#6916#6962#0" expanded="false" />
+            <element signature="e#7019#7197#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+            <element signature="e#8877#9239#0" expanded="false" />
+            <element signature="e#9344#9706#0" expanded="false" />
+            <element signature="e#9768#10130#0" expanded="false" />
+            <element signature="e#10192#10554#0" expanded="false" />
+            <element signature="e#10616#10978#0" expanded="false" />
+            <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+            <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+            <element signature="n#!!block;n#setPos#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+            <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+            <element signature="e#16278#16320#0" expanded="false" />
+            <element signature="e#16383#16425#0" expanded="false" />
+            <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+            <element signature="e#18107#18209#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+            <element signature="e#19025#19070#0" expanded="false" />
+            <element signature="e#19138#19285#0" expanded="false" />
+            <element signature="e#19313#19415#0" expanded="false" />
+            <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+            <element signature="e#20945#21115#0" expanded="false" />
+            <element signature="e#21135#21306#0" expanded="false" />
+            <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+            <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+            <element signature="n#!!block;n#switchDown#0" expanded="false" />
+            <element signature="n#!!block;n#switchMove#0" expanded="false" />
+            <element signature="e#23202#23782#0" expanded="false" />
+            <element signature="n#!!block;n#onPrev#0" expanded="false" />
+            <element signature="n#!!block;n#onNext#0" expanded="false" />
+            <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+            <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+            <element signature="n#!!block;n#render#0" expanded="false" />
+            <element signature="n#!!block;n#Start#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="n#!!block;n#initial#0" expanded="false" />
+            <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+            <element signature="n#!!block;n#initCamera#0" expanded="false" />
+            <element signature="e#4564#4742#0" expanded="false" />
+            <element signature="n#!!block;n#initScene#0" expanded="false" />
+            <element signature="n#!!block;n#initLight#0" expanded="false" />
+            <element signature="n#!!block;n#initObject#0" expanded="false" />
+            <element signature="n#!!block;n#initEvent#0" expanded="false" />
+            <element signature="e#6916#6962#0" expanded="false" />
+            <element signature="e#7019#7197#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+            <element signature="e#8877#9239#0" expanded="false" />
+            <element signature="e#9344#9706#0" expanded="false" />
+            <element signature="e#9768#10130#0" expanded="false" />
+            <element signature="e#10192#10554#0" expanded="false" />
+            <element signature="e#10616#10978#0" expanded="false" />
+            <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+            <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+            <element signature="n#!!block;n#setPos#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+            <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+            <element signature="e#16278#16320#0" expanded="false" />
+            <element signature="e#16383#16425#0" expanded="false" />
+            <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+            <element signature="e#18107#18209#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+            <element signature="e#19025#19070#0" expanded="false" />
+            <element signature="e#19138#19285#0" expanded="false" />
+            <element signature="e#19313#19415#0" expanded="false" />
+            <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+            <element signature="e#20945#21115#0" expanded="false" />
+            <element signature="e#21135#21306#0" expanded="false" />
+            <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+            <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+            <element signature="n#!!block;n#switchDown#0" expanded="false" />
+            <element signature="n#!!block;n#switchMove#0" expanded="false" />
+            <element signature="e#23202#23782#0" expanded="false" />
+            <element signature="n#!!block;n#onPrev#0" expanded="false" />
+            <element signature="n#!!block;n#onNext#0" expanded="false" />
+            <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+            <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+            <element signature="n#!!block;n#render#0" expanded="false" />
+            <element signature="n#!!block;n#Start#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="51" lean-forward="true" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="n#!!block;n#initial#0" expanded="false" />
+            <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+            <element signature="n#!!block;n#initCamera#0" expanded="false" />
+            <element signature="e#4564#4742#0" expanded="false" />
+            <element signature="n#!!block;n#initScene#0" expanded="false" />
+            <element signature="n#!!block;n#initLight#0" expanded="false" />
+            <element signature="n#!!block;n#initObject#0" expanded="false" />
+            <element signature="n#!!block;n#initEvent#0" expanded="false" />
+            <element signature="e#6916#6962#0" expanded="false" />
+            <element signature="e#7019#7197#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+            <element signature="e#8877#9239#0" expanded="false" />
+            <element signature="e#9344#9706#0" expanded="false" />
+            <element signature="e#9768#10130#0" expanded="false" />
+            <element signature="e#10192#10554#0" expanded="false" />
+            <element signature="e#10616#10978#0" expanded="false" />
+            <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+            <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+            <element signature="n#!!block;n#setPos#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+            <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+            <element signature="e#16278#16320#0" expanded="false" />
+            <element signature="e#16383#16425#0" expanded="false" />
+            <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+            <element signature="e#18107#18209#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+            <element signature="e#19025#19070#0" expanded="false" />
+            <element signature="e#19138#19285#0" expanded="false" />
+            <element signature="e#19313#19415#0" expanded="false" />
+            <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+            <element signature="e#20945#21115#0" expanded="false" />
+            <element signature="e#21135#21306#0" expanded="false" />
+            <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+            <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+            <element signature="n#!!block;n#switchDown#0" expanded="false" />
+            <element signature="n#!!block;n#switchMove#0" expanded="false" />
+            <element signature="e#23202#23782#0" expanded="false" />
+            <element signature="n#!!block;n#onPrev#0" expanded="false" />
+            <element signature="n#!!block;n#onNext#0" expanded="false" />
+            <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+            <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+            <element signature="n#!!block;n#render#0" expanded="false" />
+            <element signature="n#!!block;n#Start#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="n#!!block;n#initial#0" expanded="false" />
+            <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+            <element signature="n#!!block;n#initCamera#0" expanded="false" />
+            <element signature="e#4564#4742#0" expanded="false" />
+            <element signature="n#!!block;n#initScene#0" expanded="false" />
+            <element signature="n#!!block;n#initLight#0" expanded="false" />
+            <element signature="n#!!block;n#initObject#0" expanded="false" />
+            <element signature="n#!!block;n#initEvent#0" expanded="false" />
+            <element signature="e#6916#6962#0" expanded="false" />
+            <element signature="e#7019#7197#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+            <element signature="e#8877#9239#0" expanded="false" />
+            <element signature="e#9344#9706#0" expanded="false" />
+            <element signature="e#9768#10130#0" expanded="false" />
+            <element signature="e#10192#10554#0" expanded="false" />
+            <element signature="e#10616#10978#0" expanded="false" />
+            <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+            <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+            <element signature="n#!!block;n#setPos#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+            <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+            <element signature="e#16278#16320#0" expanded="false" />
+            <element signature="e#16383#16425#0" expanded="false" />
+            <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+            <element signature="e#18107#18209#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+            <element signature="e#19025#19070#0" expanded="false" />
+            <element signature="e#19138#19285#0" expanded="false" />
+            <element signature="e#19313#19415#0" expanded="false" />
+            <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+            <element signature="e#20945#21115#0" expanded="false" />
+            <element signature="e#21135#21306#0" expanded="false" />
+            <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+            <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+            <element signature="n#!!block;n#switchDown#0" expanded="false" />
+            <element signature="n#!!block;n#switchMove#0" expanded="false" />
+            <element signature="e#23202#23782#0" expanded="false" />
+            <element signature="n#!!block;n#onPrev#0" expanded="false" />
+            <element signature="n#!!block;n#onNext#0" expanded="false" />
+            <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+            <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+            <element signature="n#!!block;n#render#0" expanded="false" />
+            <element signature="n#!!block;n#Start#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="42" column="42" lean-forward="false" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="n#!!block;n#initial#0" expanded="false" />
+            <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+            <element signature="n#!!block;n#initCamera#0" expanded="false" />
+            <element signature="e#4564#4742#0" expanded="false" />
+            <element signature="n#!!block;n#initScene#0" expanded="false" />
+            <element signature="n#!!block;n#initLight#0" expanded="false" />
+            <element signature="n#!!block;n#initObject#0" expanded="false" />
+            <element signature="n#!!block;n#initEvent#0" expanded="false" />
+            <element signature="e#6916#6962#0" expanded="false" />
+            <element signature="e#7019#7197#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+            <element signature="e#8877#9239#0" expanded="false" />
+            <element signature="e#9344#9706#0" expanded="false" />
+            <element signature="e#9768#10130#0" expanded="false" />
+            <element signature="e#10192#10554#0" expanded="false" />
+            <element signature="e#10616#10978#0" expanded="false" />
+            <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+            <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+            <element signature="n#!!block;n#setPos#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+            <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+            <element signature="e#16278#16320#0" expanded="false" />
+            <element signature="e#16383#16425#0" expanded="false" />
+            <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+            <element signature="e#18107#18209#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+            <element signature="e#19025#19070#0" expanded="false" />
+            <element signature="e#19138#19285#0" expanded="false" />
+            <element signature="e#19313#19415#0" expanded="false" />
+            <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+            <element signature="e#20945#21115#0" expanded="false" />
+            <element signature="e#21135#21306#0" expanded="false" />
+            <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+            <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+            <element signature="n#!!block;n#switchDown#0" expanded="false" />
+            <element signature="n#!!block;n#switchMove#0" expanded="false" />
+            <element signature="e#23202#23782#0" expanded="false" />
+            <element signature="n#!!block;n#onPrev#0" expanded="false" />
+            <element signature="n#!!block;n#onNext#0" expanded="false" />
+            <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+            <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+            <element signature="n#!!block;n#render#0" expanded="false" />
+            <element signature="n#!!block;n#Start#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="42" column="42" lean-forward="false" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="n#!!block;n#initial#0" expanded="false" />
+            <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+            <element signature="n#!!block;n#initCamera#0" expanded="false" />
+            <element signature="e#4564#4742#0" expanded="false" />
+            <element signature="n#!!block;n#initScene#0" expanded="false" />
+            <element signature="n#!!block;n#initLight#0" expanded="false" />
+            <element signature="n#!!block;n#initObject#0" expanded="false" />
+            <element signature="n#!!block;n#initEvent#0" expanded="false" />
+            <element signature="e#6916#6962#0" expanded="false" />
+            <element signature="e#7019#7197#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+            <element signature="e#8877#9239#0" expanded="false" />
+            <element signature="e#9344#9706#0" expanded="false" />
+            <element signature="e#9768#10130#0" expanded="false" />
+            <element signature="e#10192#10554#0" expanded="false" />
+            <element signature="e#10616#10978#0" expanded="false" />
+            <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+            <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+            <element signature="n#!!block;n#setPos#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+            <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+            <element signature="e#16278#16320#0" expanded="false" />
+            <element signature="e#16383#16425#0" expanded="false" />
+            <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+            <element signature="e#18107#18209#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+            <element signature="e#19025#19070#0" expanded="false" />
+            <element signature="e#19138#19285#0" expanded="false" />
+            <element signature="e#19313#19415#0" expanded="false" />
+            <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+            <element signature="e#20945#21115#0" expanded="false" />
+            <element signature="e#21135#21306#0" expanded="false" />
+            <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+            <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+            <element signature="n#!!block;n#switchDown#0" expanded="false" />
+            <element signature="n#!!block;n#switchMove#0" expanded="false" />
+            <element signature="e#23202#23782#0" expanded="false" />
+            <element signature="n#!!block;n#onPrev#0" expanded="false" />
+            <element signature="n#!!block;n#onNext#0" expanded="false" />
+            <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+            <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+            <element signature="n#!!block;n#render#0" expanded="false" />
+            <element signature="n#!!block;n#Start#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="38" lean-forward="true" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="n#!!block;n#initial#0" expanded="false" />
+            <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+            <element signature="n#!!block;n#initCamera#0" expanded="false" />
+            <element signature="e#4564#4742#0" expanded="false" />
+            <element signature="n#!!block;n#initScene#0" expanded="false" />
+            <element signature="n#!!block;n#initLight#0" expanded="false" />
+            <element signature="n#!!block;n#initObject#0" expanded="false" />
+            <element signature="n#!!block;n#initEvent#0" expanded="false" />
+            <element signature="e#6916#6962#0" expanded="false" />
+            <element signature="e#7019#7197#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+            <element signature="e#8877#9239#0" expanded="false" />
+            <element signature="e#9344#9706#0" expanded="false" />
+            <element signature="e#9768#10130#0" expanded="false" />
+            <element signature="e#10192#10554#0" expanded="false" />
+            <element signature="e#10616#10978#0" expanded="false" />
+            <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+            <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+            <element signature="n#!!block;n#setPos#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+            <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+            <element signature="e#16278#16320#0" expanded="false" />
+            <element signature="e#16383#16425#0" expanded="false" />
+            <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+            <element signature="e#18107#18209#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+            <element signature="e#19025#19070#0" expanded="false" />
+            <element signature="e#19138#19285#0" expanded="false" />
+            <element signature="e#19313#19415#0" expanded="false" />
+            <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+            <element signature="e#20945#21115#0" expanded="false" />
+            <element signature="e#21135#21306#0" expanded="false" />
+            <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+            <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+            <element signature="n#!!block;n#switchDown#0" expanded="false" />
+            <element signature="n#!!block;n#switchMove#0" expanded="false" />
+            <element signature="e#23202#23782#0" expanded="false" />
+            <element signature="n#!!block;n#onPrev#0" expanded="false" />
+            <element signature="n#!!block;n#onNext#0" expanded="false" />
+            <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+            <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+            <element signature="n#!!block;n#render#0" expanded="false" />
+            <element signature="n#!!block;n#Start#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="n#!!block;n#initial#0" expanded="false" />
+            <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+            <element signature="n#!!block;n#initCamera#0" expanded="false" />
+            <element signature="e#4564#4742#0" expanded="false" />
+            <element signature="n#!!block;n#initScene#0" expanded="false" />
+            <element signature="n#!!block;n#initLight#0" expanded="false" />
+            <element signature="n#!!block;n#initObject#0" expanded="false" />
+            <element signature="n#!!block;n#initEvent#0" expanded="false" />
+            <element signature="e#6916#6962#0" expanded="false" />
+            <element signature="e#7019#7197#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+            <element signature="e#8877#9239#0" expanded="false" />
+            <element signature="e#9344#9706#0" expanded="false" />
+            <element signature="e#9768#10130#0" expanded="false" />
+            <element signature="e#10192#10554#0" expanded="false" />
+            <element signature="e#10616#10978#0" expanded="false" />
+            <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+            <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+            <element signature="n#!!block;n#setPos#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+            <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+            <element signature="e#16278#16320#0" expanded="false" />
+            <element signature="e#16383#16425#0" expanded="false" />
+            <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+            <element signature="e#18107#18209#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+            <element signature="e#19025#19070#0" expanded="false" />
+            <element signature="e#19138#19285#0" expanded="false" />
+            <element signature="e#19313#19415#0" expanded="false" />
+            <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+            <element signature="e#20945#21115#0" expanded="false" />
+            <element signature="e#21135#21306#0" expanded="false" />
+            <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+            <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+            <element signature="n#!!block;n#switchDown#0" expanded="false" />
+            <element signature="n#!!block;n#switchMove#0" expanded="false" />
+            <element signature="e#23202#23782#0" expanded="false" />
+            <element signature="n#!!block;n#onPrev#0" expanded="false" />
+            <element signature="n#!!block;n#onNext#0" expanded="false" />
+            <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+            <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+            <element signature="n#!!block;n#render#0" expanded="false" />
+            <element signature="n#!!block;n#Start#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="n#!!block;n#initial#0" expanded="false" />
+            <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+            <element signature="n#!!block;n#initCamera#0" expanded="false" />
+            <element signature="e#4564#4742#0" expanded="false" />
+            <element signature="n#!!block;n#initScene#0" expanded="false" />
+            <element signature="n#!!block;n#initLight#0" expanded="false" />
+            <element signature="n#!!block;n#initObject#0" expanded="false" />
+            <element signature="n#!!block;n#initEvent#0" expanded="false" />
+            <element signature="e#6916#6962#0" expanded="false" />
+            <element signature="e#7019#7197#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+            <element signature="e#8877#9239#0" expanded="false" />
+            <element signature="e#9344#9706#0" expanded="false" />
+            <element signature="e#9768#10130#0" expanded="false" />
+            <element signature="e#10192#10554#0" expanded="false" />
+            <element signature="e#10616#10978#0" expanded="false" />
+            <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+            <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+            <element signature="n#!!block;n#setPos#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+            <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+            <element signature="e#16278#16320#0" expanded="false" />
+            <element signature="e#16383#16425#0" expanded="false" />
+            <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+            <element signature="e#18107#18209#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+            <element signature="e#19025#19070#0" expanded="false" />
+            <element signature="e#19138#19285#0" expanded="false" />
+            <element signature="e#19313#19415#0" expanded="false" />
+            <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+            <element signature="e#20945#21115#0" expanded="false" />
+            <element signature="e#21135#21306#0" expanded="false" />
+            <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+            <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+            <element signature="n#!!block;n#switchDown#0" expanded="false" />
+            <element signature="n#!!block;n#switchMove#0" expanded="false" />
+            <element signature="e#23202#23782#0" expanded="false" />
+            <element signature="n#!!block;n#onPrev#0" expanded="false" />
+            <element signature="n#!!block;n#onNext#0" expanded="false" />
+            <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+            <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+            <element signature="n#!!block;n#render#0" expanded="false" />
+            <element signature="n#!!block;n#Start#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="n#!!block;n#initial#0" expanded="false" />
+            <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+            <element signature="n#!!block;n#initCamera#0" expanded="false" />
+            <element signature="e#4564#4742#0" expanded="false" />
+            <element signature="n#!!block;n#initScene#0" expanded="false" />
+            <element signature="n#!!block;n#initLight#0" expanded="false" />
+            <element signature="n#!!block;n#initObject#0" expanded="false" />
+            <element signature="n#!!block;n#initEvent#0" expanded="false" />
+            <element signature="e#6916#6962#0" expanded="false" />
+            <element signature="e#7019#7197#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+            <element signature="e#8877#9239#0" expanded="false" />
+            <element signature="e#9344#9706#0" expanded="false" />
+            <element signature="e#9768#10130#0" expanded="false" />
+            <element signature="e#10192#10554#0" expanded="false" />
+            <element signature="e#10616#10978#0" expanded="false" />
+            <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+            <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+            <element signature="n#!!block;n#setPos#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+            <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+            <element signature="e#16278#16320#0" expanded="false" />
+            <element signature="e#16383#16425#0" expanded="false" />
+            <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+            <element signature="e#18107#18209#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+            <element signature="e#19025#19070#0" expanded="false" />
+            <element signature="e#19138#19285#0" expanded="false" />
+            <element signature="e#19313#19415#0" expanded="false" />
+            <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+            <element signature="e#20945#21115#0" expanded="false" />
+            <element signature="e#21135#21306#0" expanded="false" />
+            <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+            <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+            <element signature="n#!!block;n#switchDown#0" expanded="false" />
+            <element signature="n#!!block;n#switchMove#0" expanded="false" />
+            <element signature="e#23202#23782#0" expanded="false" />
+            <element signature="n#!!block;n#onPrev#0" expanded="false" />
+            <element signature="n#!!block;n#onNext#0" expanded="false" />
+            <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+            <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+            <element signature="n#!!block;n#render#0" expanded="false" />
+            <element signature="n#!!block;n#Start#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="n#!!block;n#initial#0" expanded="false" />
+            <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+            <element signature="n#!!block;n#initCamera#0" expanded="false" />
+            <element signature="e#4564#4742#0" expanded="false" />
+            <element signature="n#!!block;n#initScene#0" expanded="false" />
+            <element signature="n#!!block;n#initLight#0" expanded="false" />
+            <element signature="n#!!block;n#initObject#0" expanded="false" />
+            <element signature="n#!!block;n#initEvent#0" expanded="false" />
+            <element signature="e#6916#6962#0" expanded="false" />
+            <element signature="e#7019#7197#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+            <element signature="e#8877#9239#0" expanded="false" />
+            <element signature="e#9344#9706#0" expanded="false" />
+            <element signature="e#9768#10130#0" expanded="false" />
+            <element signature="e#10192#10554#0" expanded="false" />
+            <element signature="e#10616#10978#0" expanded="false" />
+            <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+            <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+            <element signature="n#!!block;n#setPos#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+            <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+            <element signature="e#16278#16320#0" expanded="false" />
+            <element signature="e#16383#16425#0" expanded="false" />
+            <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+            <element signature="e#18107#18209#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+            <element signature="e#19025#19070#0" expanded="false" />
+            <element signature="e#19138#19285#0" expanded="false" />
+            <element signature="e#19313#19415#0" expanded="false" />
+            <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+            <element signature="e#20945#21115#0" expanded="false" />
+            <element signature="e#21135#21306#0" expanded="false" />
+            <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+            <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+            <element signature="n#!!block;n#switchDown#0" expanded="false" />
+            <element signature="n#!!block;n#switchMove#0" expanded="false" />
+            <element signature="e#23202#23782#0" expanded="false" />
+            <element signature="n#!!block;n#onPrev#0" expanded="false" />
+            <element signature="n#!!block;n#onNext#0" expanded="false" />
+            <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+            <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+            <element signature="n#!!block;n#render#0" expanded="false" />
+            <element signature="n#!!block;n#Start#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/initial.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="n#!!block;n#initial#0" expanded="false" />
+            <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+            <element signature="n#!!block;n#initCamera#0" expanded="false" />
+            <element signature="e#4564#4742#0" expanded="false" />
+            <element signature="n#!!block;n#initScene#0" expanded="false" />
+            <element signature="n#!!block;n#initLight#0" expanded="false" />
+            <element signature="n#!!block;n#initObject#0" expanded="false" />
+            <element signature="n#!!block;n#initEvent#0" expanded="false" />
+            <element signature="e#6916#6962#0" expanded="false" />
+            <element signature="e#7019#7197#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+            <element signature="e#8877#9239#0" expanded="false" />
+            <element signature="e#9344#9706#0" expanded="false" />
+            <element signature="e#9768#10130#0" expanded="false" />
+            <element signature="e#10192#10554#0" expanded="false" />
+            <element signature="e#10616#10978#0" expanded="false" />
+            <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+            <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+            <element signature="n#!!block;n#setPos#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+            <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+            <element signature="e#16278#16320#0" expanded="false" />
+            <element signature="e#16383#16425#0" expanded="false" />
+            <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+            <element signature="e#18107#18209#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+            <element signature="e#19025#19070#0" expanded="false" />
+            <element signature="e#19138#19285#0" expanded="false" />
+            <element signature="e#19313#19415#0" expanded="false" />
+            <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+            <element signature="e#20945#21115#0" expanded="false" />
+            <element signature="e#21135#21306#0" expanded="false" />
+            <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+            <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+            <element signature="n#!!block;n#switchDown#0" expanded="false" />
+            <element signature="n#!!block;n#switchMove#0" expanded="false" />
+            <element signature="e#23202#23782#0" expanded="false" />
+            <element signature="n#!!block;n#onPrev#0" expanded="false" />
+            <element signature="n#!!block;n#onNext#0" expanded="false" />
+            <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+            <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+            <element signature="n#!!block;n#render#0" expanded="false" />
+            <element signature="n#!!block;n#Start#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/initial.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="n#!!block;n#initial#0" expanded="false" />
+            <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+            <element signature="n#!!block;n#initCamera#0" expanded="false" />
+            <element signature="e#4564#4742#0" expanded="false" />
+            <element signature="n#!!block;n#initScene#0" expanded="false" />
+            <element signature="n#!!block;n#initLight#0" expanded="false" />
+            <element signature="n#!!block;n#initObject#0" expanded="false" />
+            <element signature="n#!!block;n#initEvent#0" expanded="false" />
+            <element signature="e#6916#6962#0" expanded="false" />
+            <element signature="e#7019#7197#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+            <element signature="e#8877#9239#0" expanded="false" />
+            <element signature="e#9344#9706#0" expanded="false" />
+            <element signature="e#9768#10130#0" expanded="false" />
+            <element signature="e#10192#10554#0" expanded="false" />
+            <element signature="e#10616#10978#0" expanded="false" />
+            <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+            <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+            <element signature="n#!!block;n#setPos#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+            <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+            <element signature="e#16278#16320#0" expanded="false" />
+            <element signature="e#16383#16425#0" expanded="false" />
+            <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+            <element signature="e#18107#18209#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+            <element signature="e#19025#19070#0" expanded="false" />
+            <element signature="e#19138#19285#0" expanded="false" />
+            <element signature="e#19313#19415#0" expanded="false" />
+            <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+            <element signature="e#20945#21115#0" expanded="false" />
+            <element signature="e#21135#21306#0" expanded="false" />
+            <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+            <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+            <element signature="n#!!block;n#switchDown#0" expanded="false" />
+            <element signature="n#!!block;n#switchMove#0" expanded="false" />
+            <element signature="e#23202#23782#0" expanded="false" />
+            <element signature="n#!!block;n#onPrev#0" expanded="false" />
+            <element signature="n#!!block;n#onNext#0" expanded="false" />
+            <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+            <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+            <element signature="n#!!block;n#render#0" expanded="false" />
+            <element signature="n#!!block;n#Start#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/OBJMTLLoader.js" />
+    <entry file="file://$PROJECT_DIR$/js/DDSLoader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/Island/Maps/snd1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/DragControls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CSS3RingMenu/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="210" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="210" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../CSS3RingMenu/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="65" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/Detector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html" />
+    <entry file="file://$PROJECT_DIR$/test3.html" />
+    <entry file="file://$PROJECT_DIR$/css/hand2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/hand1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://F:/Github/actionSet/slider/slide.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Github/actionSet/slider/slide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/initial.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="727" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#105#0" expanded="false" />
+            <element signature="e#108#128#0" expanded="false" />
+            <element signature="e#130#150#0" expanded="false" />
+            <element signature="e#170#300#0" expanded="false" />
+            <element signature="e#303#510#0" expanded="false" />
+            <element signature="e#519#605#0" expanded="false" />
+            <element signature="e#610#839#0" expanded="false" />
+            <element signature="e#844#887#0" expanded="false" />
+            <element signature="e#905#1064#0" expanded="false" />
+            <element signature="e#1080#1142#0" expanded="false" />
+            <element signature="e#1168#1429#0" expanded="false" />
+            <element signature="e#1438#1572#0" expanded="false" />
+            <element signature="e#1580#1875#0" expanded="false" />
+            <element signature="e#1888#1923#0" expanded="false" />
+            <element signature="e#1936#2032#0" expanded="false" />
+            <element signature="e#2047#2145#0" expanded="false" />
+            <element signature="e#2159#2256#0" expanded="false" />
+            <element signature="e#2270#2368#0" expanded="false" />
+            <element signature="e#2381#2478#0" expanded="false" />
+            <element signature="e#2493#2590#0" expanded="false" />
+            <element signature="e#2605#2700#0" expanded="false" />
+            <element signature="e#2701#2968#0" expanded="false" />
+            <element signature="e#2969#3248#0" expanded="false" />
+            <element signature="e#3262#3456#0" expanded="false" />
+            <element signature="e#3480#3641#0" expanded="false" />
+            <element signature="e#3651#3725#0" expanded="false" />
+            <element signature="e#3735#3776#0" expanded="false" />
+            <element signature="e#3786#3888#0" expanded="false" />
+            <element signature="e#3899#3935#0" expanded="false" />
+            <element signature="e#3943#3970#0" expanded="false" />
+            <element signature="e#3980#4171#0" expanded="false" />
+            <element signature="e#4187#4221#0" expanded="false" />
+            <element signature="e#4244#4396#0" expanded="false" />
+            <element signature="e#4404#4551#0" expanded="false" />
+            <element signature="e#4556#4610#0" expanded="false" />
+            <element signature="e#4626#4746#0" expanded="false" />
+            <element signature="e#4760#4815#0" expanded="false" />
+            <element signature="e#4827#4958#0" expanded="false" />
+            <element signature="e#4983#5007#0" expanded="false" />
+            <element signature="e#5034#5116#0" expanded="false" />
+            <element signature="e#5122#5446#0" expanded="false" />
+            <element signature="e#5447#5656#0" expanded="false" />
+            <element signature="e#5662#5990#0" expanded="false" />
+            <element signature="e#5991#6204#0" expanded="false" />
+            <element signature="e#6298#6593#0" expanded="false" />
+            <element signature="e#6611#6691#0" expanded="false" />
+            <element signature="e#6709#6809#0" expanded="false" />
+            <element signature="e#6829#6928#0" expanded="false" />
+            <element signature="e#6947#7026#0" expanded="false" />
+            <element signature="e#7045#7123#0" expanded="false" />
+            <element signature="e#7217#7243#0" expanded="false" />
+            <element signature="e#7257#7353#0" expanded="false" />
+            <element signature="e#7372#7430#0" expanded="false" />
+            <element signature="e#7461#7509#0" expanded="false" />
+            <element signature="e#7539#7586#0" expanded="false" />
+            <element signature="e#7600#7696#0" expanded="false" />
+            <element signature="e#7715#7773#0" expanded="false" />
+            <element signature="e#7804#7852#0" expanded="false" />
+            <element signature="e#7882#7929#0" expanded="false" />
+            <element signature="e#7943#8039#0" expanded="false" />
+            <element signature="e#8058#8116#0" expanded="false" />
+            <element signature="e#8147#8195#0" expanded="false" />
+            <element signature="e#8225#8272#0" expanded="false" />
+            <element signature="e#8286#8382#0" expanded="false" />
+            <element signature="e#8401#8459#0" expanded="false" />
+            <element signature="e#8490#8538#0" expanded="false" />
+            <element signature="e#8568#8615#0" expanded="false" />
+            <element signature="e#8629#8725#0" expanded="false" />
+            <element signature="e#8744#8802#0" expanded="false" />
+            <element signature="e#8833#8880#0" expanded="false" />
+            <element signature="e#8910#8957#0" expanded="false" />
+            <element signature="e#8979#9104#0" expanded="false" />
+            <element signature="e#9112#9176#0" expanded="false" />
+            <element signature="e#9181#9361#0" expanded="false" />
+            <element signature="e#9375#9667#0" expanded="false" />
+            <element signature="e#9682#9864#0" expanded="false" />
+            <element signature="e#9879#10064#0" expanded="false" />
+            <element signature="e#10079#10264#0" expanded="false" />
+            <element signature="e#10265#10382#0" expanded="false" />
+            <element signature="e#10388#10793#0" expanded="false" />
+            <element signature="e#10794#10921#0" expanded="false" />
+            <element signature="e#10930#11304#0" expanded="false" />
+            <element signature="e#11318#11340#0" expanded="false" />
+            <element signature="e#11341#11468#0" expanded="false" />
+            <element signature="e#11477#12017#0" expanded="false" />
+            <element signature="e#12032#12087#0" expanded="false" />
+            <element signature="e#12093#12115#0" expanded="false" />
+            <element signature="e#12121#12143#0" expanded="false" />
+            <element signature="e#12151#12687#0" expanded="false" />
+            <element signature="e#12697#12876#0" expanded="false" />
+            <element signature="e#12890#12935#0" expanded="false" />
+            <element signature="e#12945#13063#0" expanded="false" />
+            <element signature="e#13070#13182#0" expanded="false" />
+            <element signature="e#13190#13232#0" expanded="false" />
+            <element signature="e#13240#13280#0" expanded="false" />
+            <element signature="e#13288#13328#0" expanded="false" />
+            <element signature="e#13336#13376#0" expanded="false" />
+            <element signature="e#13384#13424#0" expanded="false" />
+            <element signature="e#13431#13687#0" expanded="false" />
+            <element signature="e#13695#13782#0" expanded="false" />
+            <element signature="e#13786#13811#0" expanded="false" />
+            <element signature="e#13815#13841#0" expanded="false" />
+            <element signature="e#13853#13966#0" expanded="false" />
+            <element signature="e#13974#14120#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/three.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/OBJLoader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/MTLLoader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="551" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/TrackballControls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="625" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/initial.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="839">
+          <caret line="810" column="1" lean-forward="false" selection-start-line="810" selection-start-column="1" selection-end-line="810" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+            <element signature="n#!!block;n#initial#0" expanded="false" />
+            <element signature="n#!!block;n#initRenderer#0" expanded="false" />
+            <element signature="n#!!block;n#initCamera#0" expanded="false" />
+            <element signature="e#4564#4742#0" expanded="false" />
+            <element signature="n#!!block;n#initScene#0" expanded="false" />
+            <element signature="n#!!block;n#initLight#0" expanded="false" />
+            <element signature="n#!!block;n#initObject#0" expanded="false" />
+            <element signature="n#!!block;n#initEvent#0" expanded="false" />
+            <element signature="e#6916#6962#0" expanded="false" />
+            <element signature="e#7019#7197#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent1#0" expanded="false" />
+            <element signature="n#!!block;n#oneEvent2#0" expanded="false" />
+            <element signature="e#8877#9239#0" expanded="false" />
+            <element signature="e#9344#9706#0" expanded="false" />
+            <element signature="e#9768#10130#0" expanded="false" />
+            <element signature="e#10192#10554#0" expanded="false" />
+            <element signature="e#10616#10978#0" expanded="false" />
+            <element signature="n#!!block;n#onTipNext#0" expanded="false" />
+            <element signature="n#!!block;n#onTipFinish#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlant#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantY#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPlantN#0" expanded="false" />
+            <element signature="n#!!block;n#setPos#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseDown#0" expanded="false" />
+            <element signature="n#!!block;n#onDocumentMouseUp#0" expanded="false" />
+            <element signature="n#!!block;n#PlantGrow#0" expanded="false" />
+            <element signature="e#16278#16320#0" expanded="false" />
+            <element signature="e#16383#16425#0" expanded="false" />
+            <element signature="n#!!block;n#onClickGrow#0" expanded="false" />
+            <element signature="e#18107#18209#0" expanded="false" />
+            <element signature="n#!!block;n#onClickPalm#0" expanded="false" />
+            <element signature="e#19025#19070#0" expanded="false" />
+            <element signature="e#19138#19285#0" expanded="false" />
+            <element signature="e#19313#19415#0" expanded="false" />
+            <element signature="n#!!block;n#onClickFruit#0" expanded="false" />
+            <element signature="e#20945#21115#0" expanded="false" />
+            <element signature="e#21135#21306#0" expanded="false" />
+            <element signature="n#!!block;n#onClickContent#0" expanded="false" />
+            <element signature="n#!!block;n#onClickNoContent#0" expanded="false" />
+            <element signature="n#!!block;n#switchDown#0" expanded="false" />
+            <element signature="n#!!block;n#switchMove#0" expanded="false" />
+            <element signature="e#23202#23782#0" expanded="false" />
+            <element signature="n#!!block;n#onPrev#0" expanded="false" />
+            <element signature="n#!!block;n#onNext#0" expanded="false" />
+            <element signature="n#!!block;n#getWorldCoordinate#0" expanded="false" />
+            <element signature="n#!!block;n#getScreenCoordinates#0" expanded="false" />
+            <element signature="n#!!block;n#onWindowResize#0" expanded="false" />
+            <element signature="n#!!block;n#animate#0" expanded="false" />
+            <element signature="n#!!block;n#render#0" expanded="false" />
+            <element signature="n#!!block;n#Start#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="214" column="39" lean-forward="true" selection-start-line="214" selection-start-column="39" selection-end-line="214" selection-end-column="39" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#10;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#12;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#14;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#3;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#8;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#9;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
